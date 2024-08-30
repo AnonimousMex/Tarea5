@@ -1,1 +1,2 @@
-print("Hola soy Diegoo")
+print("Hola soy Diego")
+print("Hola soy rodrigo")
